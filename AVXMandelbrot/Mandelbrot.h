@@ -7,6 +7,18 @@
 const float HORIZONTAL_SHIFT_AMOUNT = 0.2f;
 const float VERTICAL_SHIFT_AMOUNT   = 0.2f;
 
+const int MULTIPLE_DATA_SIZE = 16;
+
+const float SCALE_DX = 0.1;
+
+const int N_MAX  = 256;
+const int R2_MAX = 100.f;
+
+const float MAX_COLOR_NUM = 255.f;
+
+const float INIT_DX = 1/800.f;
+const float INIT_DY = 1/800.f;
+
 const float INIT_X_CENTER = 0.f;
 const float INIT_Y_CENTER = 0.f;
 const float INIT_SCALE    = 1.f;
